@@ -1,5 +1,11 @@
 # h3
 
+> **This is the `sailantis/hyperium-h3` fork of `hyperium/h3`, and it carries no diff against
+> upstream `master` @ `43745ad` as of 2026-10-28.** It exists only to be a build source for Volucer
+> if a fix is needed before it is released upstream. See [FORK.md](FORK.md) for the rules this fork
+> follows, the branch and tag naming, and which commit to build from. Everything below is upstream's
+> own README.
+
 An async HTTP/3 implementation.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
